@@ -220,3 +220,21 @@ body {
   font-size: 24px;
   font-weight: 600;
 }
+
+.footer__call-to-action {
+  padding: 50px 100px;
+  margin: 100px 200px;
+  background-color: #3882F6;
+  border-radius: 5px;
+  color: #E5E7EB;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.footer__button {
+  border: solid 2px #E5E7EB;
+  border-radius: 5px;
+  padding: 5px 20px;
+}
