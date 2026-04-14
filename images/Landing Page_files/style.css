@@ -163,11 +163,7 @@ body {
 
 .section-one__button {
   background-color: #3882F6;
-  color: #E5E7EB;
   font-size: 20px;
-  padding: 5px 30px;
-  border-radius: 5px;
-  margin-top: 5px;
 }
 
 .section-two {
@@ -203,20 +199,4 @@ body {
 
 .section-two__info-subtext {
   margin-top: 5px;
-}
-
-.section-three {
-  color: #1F2937;
-  background-color: #E5E7EB;
-  font-size: 36px;
-  font-style: italic;
-  font-weight: 300;
-  padding: 100px 300px;
-}
-
-.section-three__signature {
-  text-align: right;
-  font-style: normal;
-  font-size: 24px;
-  font-weight: 600;
 }
